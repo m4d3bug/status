@@ -58,7 +58,7 @@ status-website:
   logoUrl: https://github.com/m4d3bug/m4d3bug.github.io/blob/gh-pages/themes/next/source/images/avatar.jpg?raw=true
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: m4d3bug Status Page
-  theme: nightt
+  theme: night
   introTitle: "m4d3bug's main products and services"
   introMessage: Concentrate on displaying the **operational status and availability information** of by real-time data.
   navbar:
