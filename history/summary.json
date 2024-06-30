@@ -4,18 +4,20 @@
     "url": "https://whoogle.madebug.net",
     "icon": "https://icons.duckduckgo.com/ip3/whoogle.madebug.net.ico",
     "slug": "whoogle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1162,
-    "timeDay": 1041,
-    "timeWeek": 1162,
-    "timeMonth": 1162,
-    "timeYear": 1162,
-    "dailyMinutesDown": {}
+    "time": 1209,
+    "timeDay": 1163,
+    "timeWeek": 1209,
+    "timeMonth": 1209,
+    "timeYear": 1209,
+    "dailyMinutesDown": {
+      "2024-06-30": 0
+    }
   },
   {
     "name": "AI",
