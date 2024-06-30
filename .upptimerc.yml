@@ -3,8 +3,20 @@ owner: m4d3bug # Your GitHub organization or username, where this repository liv
 repo: status # The name of this repository
 
 sites:
+  - name: Whoogle
+    url: https://whoogle.madebug.net
+    expectedStatusCodes:
+      - 200
+  - name: AI
+    url: https://ai.madebug.net
+    expectedStatusCodes:
+      - 200
   - name: Blog
     url: https://blog.madebug.net
+    expectedStatusCodes:
+      - 200
+  - name: Quay
+    url: https://quay.madebug.net
     expectedStatusCodes:
       - 200
   - name: LB-00
@@ -30,15 +42,6 @@ sites:
   - name: LB-04
     url: https://lb-04.m4d3bug.com/check
     __dangerous__disable_verify_peer: true
-    expectedStatusCodes:
-      - 200
-  - name: Whoogle
-    url: https://whoogle.madebug.net
-    __dangerous__disable_verify_peer: true
-    expectedStatusCodes:
-      - 200
-  - name: AI
-    url: https://ai.madebug.net
     expectedStatusCodes:
       - 200
   - name: CFyes
