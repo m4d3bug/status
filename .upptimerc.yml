@@ -19,6 +19,14 @@ sites:
     url: https://quay.madebug.net
     expectedStatusCodes:
       - 200
+  - name: CFyes
+    check: "tcp-ping"
+    url: cfyes.m4d3bug.com
+    port: 443
+  - name: DNS 
+    check: "tcp-ping"
+    url: dns.m4d3bug.com
+    port: 53
   - name: LB-00
     url: https://lb-00.m4d3bug.com/check
     __dangerous__disable_verify_peer: true
@@ -44,14 +52,6 @@ sites:
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
       - 200
-  - name: CFyes
-    check: "tcp-ping"
-    url: cfyes.m4d3bug.com
-    port: 443
-  - name: m4d3bug DNS 
-    check: "tcp-ping"
-    url: dns.m4d3bug.com
-    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
