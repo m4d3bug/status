@@ -130,19 +130,19 @@
     "url": "https://lb-01.m4d3bug.com/check",
     "icon": "https://icons.duckduckgo.com/ip3/lb-01.m4d3bug.com.ico",
     "slug": "lb-01",
-    "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
-    "time": 2173,
-    "timeDay": 6654,
-    "timeWeek": 2173,
-    "timeMonth": 2173,
-    "timeYear": 2173,
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
+    "time": 2535,
+    "timeDay": 6992,
+    "timeWeek": 2535,
+    "timeMonth": 2535,
+    "timeYear": 2535,
     "dailyMinutesDown": {
-      "2024-07-01": 15
+      "2024-07-01": 23
     }
   },
   {
