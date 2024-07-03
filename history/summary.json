@@ -94,9 +94,9 @@
     "url": "dns.m4d3bug.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +105,9 @@
     "timeWeek": 181,
     "timeMonth": 181,
     "timeYear": 181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-03": 0
+    }
   },
   {
     "name": "LB-00",
@@ -119,7 +121,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4400,
-    "timeDay": 14685,
+    "timeDay": 2455,
     "timeWeek": 4400,
     "timeMonth": 4400,
     "timeYear": 4400,
@@ -131,18 +133,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lb-01.m4d3bug.com.ico",
     "slug": "lb-01",
     "status": "up",
-    "uptime": "88.64%",
-    "uptimeDay": "66.68%",
-    "uptimeWeek": "88.64%",
-    "uptimeMonth": "88.64%",
-    "uptimeYear": "88.64%",
+    "uptime": "89.54%",
+    "uptimeDay": "87.58%",
+    "uptimeWeek": "89.54%",
+    "uptimeMonth": "89.54%",
+    "uptimeYear": "89.54%",
     "time": 3966,
-    "timeDay": 5751,
+    "timeDay": 6149,
     "timeWeek": 3966,
     "timeMonth": 3966,
     "timeYear": 3966,
     "dailyMinutesDown": {
-      "2024-07-03": 122,
+      "2024-07-03": 114,
       "2024-07-02": 465,
       "2024-07-01": 32
     }
