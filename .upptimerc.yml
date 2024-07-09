@@ -15,10 +15,10 @@ sites:
     url: https://blog.madebug.net
     expectedStatusCodes:
       - 200
-  - name: QUAY
-    url: https://quay.madebug.net
-    expectedStatusCodes:
-      - 200
+#  - name: QUAY
+#    url: https://quay.madebug.net
+#    expectedStatusCodes:
+#      - 200
   - name: CFYES
     check: "tcp-ping"
     url: cfyes.m4d3bug.com
