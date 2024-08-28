@@ -23,10 +23,10 @@ sites:
     check: "tcp-ping"
     url: cfyes.m4d3bug.com
     port: 443
-  - name: DNS 
-    check: "tcp-ping"
-    url: dns.m4d3bug.com
-    port: 53
+  # - name: DNS 
+  #   check: "tcp-ping"
+  #   url: dns.m4d3bug.com
+  #   port: 53
   - name: LB-00
     url: https://lb-00.m4d3bug.com/check
     __dangerous__disable_verify_peer: true
