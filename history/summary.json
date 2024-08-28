@@ -175,18 +175,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/free.m4d3bug.com.ico",
     "slug": "free",
     "status": "up",
-    "uptime": "2.37%",
-    "uptimeDay": "2.37%",
-    "uptimeWeek": "2.37%",
-    "uptimeMonth": "2.37%",
-    "uptimeYear": "2.37%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 190,
     "timeDay": 190,
     "timeWeek": 190,
     "timeMonth": 190,
     "timeYear": 190,
-    "dailyMinutesDown": {
-      "2024-08-28": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
