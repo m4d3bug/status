@@ -15,10 +15,6 @@ sites:
     url: https://blog.madebug.net
     expectedStatusCodes:
       - 200
-#  - name: QUAY
-#    url: https://quay.madebug.net
-#    expectedStatusCodes:
-#      - 200
   - name: CFYES
     check: "tcp-ping"
     url: cfyes.m4d3bug.com
@@ -43,11 +39,6 @@ sites:
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
       - 200
-  - name: FREE
-    url: https://free.m4d3bug.com
-    __dangerous__disable_verify_peer: true
-    expectedStatusCodes:
-      - 400
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
