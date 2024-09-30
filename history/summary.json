@@ -103,7 +103,7 @@
     "uptime": "95.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.69%",
+    "uptimeMonth": "95.05%",
     "uptimeYear": "95.25%",
     "time": 1229,
     "timeDay": 254,
@@ -126,9 +126,9 @@
     "url": "https://lb-02.m4d3bug.com/check",
     "icon": "https://icons.duckduckgo.com/ip3/lb-02.m4d3bug.com.ico",
     "slug": "lb-02",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
@@ -138,6 +138,7 @@
     "timeMonth": 699,
     "timeYear": 418,
     "dailyMinutesDown": {
+      "2024-09-30": 0,
       "2024-08-31": 28
     }
   },
