@@ -1,7 +1,7 @@
 url: https://whoogle.madebug.net
-status: up
-code: 200
-responseTime: 433
-lastUpdated: 2025-01-09T23:00:43.546Z
+status: down
+code: 502
+responseTime: 1597
+lastUpdated: 2025-01-10T19:44:08.925Z
 startTime: 2024-06-29T12:36:09.465Z
 generator: Upptime <https://github.com/upptime/upptime>
