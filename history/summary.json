@@ -16,7 +16,7 @@
     "timeMonth": 130,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2025-08-14": 1253,
+      "2025-08-14": 1269,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -217,19 +217,19 @@
     "url": "https://ai.madebug.net",
     "icon": "https://icons.duckduckgo.com/ip3/ai.madebug.net.ico",
     "slug": "ai",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 134,
-    "timeWeek": 214,
-    "timeMonth": 159,
+    "timeDay": 184,
+    "timeWeek": 216,
+    "timeMonth": 161,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2025-08-14": 0
+      "2025-08-14": 15
     }
   },
   {
@@ -303,7 +303,7 @@
     "timeMonth": 0,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2025-08-14": 1254,
+      "2025-08-14": 1269,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -457,7 +457,7 @@
     "timeMonth": 190,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2025-08-14": 1254,
+      "2025-08-14": 1269,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -737,14 +737,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.46%",
+    "uptimeYear": "35.45%",
     "time": 970,
     "timeDay": 19672,
     "timeWeek": 3569,
     "timeMonth": 3252,
     "timeYear": 1094,
     "dailyMinutesDown": {
-      "2025-08-14": 1254,
+      "2025-08-14": 1269,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -1003,7 +1003,7 @@
     "timeMonth": 182,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2025-08-14": 1254,
+      "2025-08-14": 1269,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
