@@ -85,19 +85,19 @@
     "url": "https://lb-ext.m4d3bug.com/check",
     "icon": "https://icons.duckduckgo.com/ip3/lb-ext.m4d3bug.com.ico",
     "slug": "lb-ext",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 655,
-    "timeDay": 5142,
-    "timeWeek": 1582,
-    "timeMonth": 492,
-    "timeYear": 655,
+    "time": 686,
+    "timeDay": 5145,
+    "timeWeek": 2028,
+    "timeMonth": 638,
+    "timeYear": 686,
     "dailyMinutesDown": {
-      "2026-02-01": 0
+      "2026-02-01": 8
     }
   },
   {
@@ -117,7 +117,7 @@
     "timeMonth": 0,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2026-02-01": 710,
+      "2026-02-01": 717,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
@@ -410,7 +410,7 @@
     "timeMonth": 0,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2026-02-01": 710,
+      "2026-02-01": 717,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
