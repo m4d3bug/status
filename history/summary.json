@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 170,
-    "timeDay": 189,
-    "timeWeek": 206,
-    "timeMonth": 215,
+    "timeDay": 96,
+    "timeWeek": 143,
+    "timeMonth": 214,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2026-02-23": 52,
@@ -41,9 +41,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 183,
-    "timeDay": 184,
-    "timeWeek": 199,
-    "timeMonth": 197,
+    "timeDay": 136,
+    "timeWeek": 190,
+    "timeMonth": 199,
     "timeYear": 196,
     "dailyMinutesDown": {}
   },
@@ -70,8 +70,7 @@
       "2025-05-20": 40,
       "2025-05-12": 26,
       "2025-05-11": 19,
-      "2025-05-10": 25,
-      "2025-05-09": 29
+      "2025-05-10": 25
     }
   },
   {
@@ -85,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 513,
-    "timeDay": 286,
-    "timeWeek": 253,
-    "timeMonth": 214,
-    "timeYear": 513,
+    "time": 512,
+    "timeDay": 308,
+    "timeWeek": 269,
+    "timeMonth": 215,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2026-03-07": 26
     }
@@ -100,7 +99,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lb-01.m4d3bug.com.ico",
     "slug": "lb-01",
     "status": "down",
-    "uptime": "35.11%",
+    "uptime": "35.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -109,9 +108,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 472,
+    "timeYear": 474,
     "dailyMinutesDown": {
-      "2026-05-08": 201,
+      "2026-05-09": 200,
+      "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
@@ -383,8 +383,7 @@
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
-      "2025-05-10": 1440,
-      "2025-05-09": 1440
+      "2025-05-10": 1440
     }
   },
   {
@@ -393,7 +392,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lb-03.m4d3bug.com.ico",
     "slug": "lb-03",
     "status": "down",
-    "uptime": "43.18%",
+    "uptime": "43.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -404,7 +403,8 @@
     "timeMonth": 0,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2026-05-08": 201,
+      "2026-05-09": 200,
+      "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
@@ -707,8 +707,7 @@
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
-      "2025-05-10": 1440,
-      "2025-05-09": 1440
+      "2025-05-10": 1440
     }
   }
 ]
