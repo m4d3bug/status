@@ -20,16 +20,6 @@ sites:
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
       - 200
-  - name: LB-01
-    url: https://lb-01.m4d3bug.com/check
-    __dangerous__disable_verify_peer: true
-    expectedStatusCodes:
-      - 200
-  - name: LB-03
-    url: https://lb-03.m4d3bug.com/check
-    __dangerous__disable_verify_peer: true
-    expectedStatusCodes:
-      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
