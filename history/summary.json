@@ -6,10 +6,10 @@
     "slug": "ai",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeDay": "92.26%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.93%",
     "time": 214,
     "timeDay": 344,
     "timeWeek": 329,
@@ -20,7 +20,7 @@
       "2025-11-08": 0,
       "2025-11-16": 103,
       "2026-02-23": 52,
-      "2026-11-05": 0
+      "2026-11-05": 111
     }
   },
   {
@@ -68,11 +68,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lb-ext.m4d3bug.com.ico",
     "slug": "lb-ext",
     "status": "down",
-    "uptime": "99.06%",
-    "uptimeDay": "99.98%",
+    "uptime": "99.04%",
+    "uptimeDay": "92.27%",
     "uptimeWeek": "62.99%",
-    "uptimeMonth": "86.98%",
-    "uptimeYear": "98.91%",
+    "uptimeMonth": "86.72%",
+    "uptimeYear": "98.89%",
     "time": 411,
     "timeDay": 264,
     "timeWeek": 431,
@@ -85,7 +85,7 @@
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 307,
-      "2026-11-05": 0
+      "2026-11-05": 111
     }
   }
 ]
